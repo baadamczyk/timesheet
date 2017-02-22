@@ -1,5 +1,5 @@
 # timesheet
 Java time tracking project (WebApplication readme)
 
-TODO: 
-	[] Spring implementation
+<b>TODO:</b> 
+	- [ ] Spring implementation
