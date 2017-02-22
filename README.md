@@ -1,2 +1,4 @@
 # timesheet
-Java time tracking project
+Java time tracking project (android readme)
+
+TODO:
