@@ -2,6 +2,7 @@
 Java time tracking project
 
 TODO:
+- vaadin
 - runnable with docker compose
 - postgres
 - simple tabelaric, excel-like form
